@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "RenderAPI::DrawLine(glm::vec&lt;2, float, (glm::qualifier)0&gt; const&amp;, glm::vec&lt;2, float, (glm::qualifier)0&gt; const&amp;):RenderApi.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

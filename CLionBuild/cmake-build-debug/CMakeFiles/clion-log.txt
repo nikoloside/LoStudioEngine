@@ -1,0 +1,4 @@
+"/Users/nikolos/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/nikolos/Documents/MacOS_workspace/LoStudioEngineProject/CLionBuild
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/nikolos/Documents/MacOS_workspace/LoStudioEngineProject/CLionBuild/cmake-build-debug
